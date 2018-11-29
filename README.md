@@ -1,2 +1,2 @@
 # tikz-space-invader
-Because why not ¯\_(ツ)_/¯
+Because why not ¯\\\_(ツ)_/¯
